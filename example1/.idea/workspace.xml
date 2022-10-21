@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="251a8a54-3e65-420e-bcef-2928876e5ec6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2DKIVFuombBa613p5zS8rVPR6P6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DZ3_Guliza_20-02" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="251a8a54-3e65-420e-bcef-2928876e5ec6" name="Default Changelist" comment="" />
+      <created>1660441370611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660441370611</updated>
+      <workItem from="1660441371757" duration="19000" />
+      <workItem from="1660441391909" duration="6055000" />
+      <workItem from="1660728080664" duration="1131000" />
+      <workItem from="1660729406905" duration="7653000" />
+      <workItem from="1661002444821" duration="338000" />
+      <workItem from="1661590545909" duration="589000" />
+      <workItem from="1661595102302" duration="486000" />
+      <workItem from="1661599364032" duration="2583000" />
+      <workItem from="1661609479073" duration="126000" />
+      <workItem from="1661937933290" duration="1426000" />
+      <workItem from="1663398477136" duration="332000" />
+      <workItem from="1663416271323" duration="91000" />
+      <workItem from="1663421565706" duration="32000" />
+      <workItem from="1663421639706" duration="422000" />
+      <workItem from="1663576760767" duration="71000" />
+      <workItem from="1663595701401" duration="3261000" />
+      <workItem from="1663660338341" duration="2059000" />
+      <workItem from="1663762173046" duration="401000" />
+      <workItem from="1663766094861" duration="1903000" />
+      <workItem from="1664372150718" duration="989000" />
+      <workItem from="1665162186238" duration="2551000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="146" y="155" key="#Web_Browsers" timestamp="1661590558364">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="146" y="155" key="#Web_Browsers/0.0.1366.720@0.0.1366.720" timestamp="1661590558364" />
+    <state x="463" y="115" key="FileChooserDialogImpl" timestamp="1665167252739">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="463" y="115" key="FileChooserDialogImpl/0.0.1366.720@0.0.1366.720" timestamp="1665167252739" />
+  </component>
+</project>

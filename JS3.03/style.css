@@ -1,0 +1,16 @@
+div {
+
+}
+
+span {
+    font-size: 20px;
+    color: red;
+}
+
+span.bigred {
+    font-size: 20px;
+    color: green;
+}
+bigred.span {
+    color:green;
+}
